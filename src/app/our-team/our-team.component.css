@@ -1,0 +1,49 @@
+.hero{
+    padding-top: 3.5rem;
+}
+
+.title{
+    font-family: 'Open Sans', sans-serif;
+    margin-left: auto;
+    margin-right: auto;
+    width: 60%;
+    font-size: 4em;
+    padding-bottom: 8px;
+    color: #252525 !important;
+}
+
+.is-info{
+    background-color: #ffb43223;
+}
+
+.tileTitle{
+    font-family: 'Open Sans', sans-serif;
+    margin-left: auto;
+    margin-right: auto;
+    font-weight: bold;
+    font-size: 36px;
+    color: #252525 !important;
+}
+
+.tileSubtitle{
+    font-family: 'Open Sans', sans-serif;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 20px;
+    color: #252525 !important;
+}
+
+.content{
+    width: 60%;
+    margin: 24px auto 24px auto;
+    height: auto;
+}
+
+.founders{
+    display: flex;
+}
+
+.tile{
+    width: 40%;
+    height: auto;
+}

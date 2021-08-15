@@ -1,0 +1,17 @@
+.hero-body{
+    background: linear-gradient(120deg, #22421F, rgba(0, 0, 0, 0));
+}
+
+.hero{
+    background-image: url(/assets/img/protest.jpg);
+    background-size: cover;
+    background-position: right center;
+    margin-top: 3.5rem !important;
+}
+
+.title{
+    font-size: 60pt;
+    color: white;
+    font-family: 'Lilita One', cursive;
+}
+

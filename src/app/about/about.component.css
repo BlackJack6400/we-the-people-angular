@@ -1,0 +1,25 @@
+.hero{
+    padding-top: 3.5rem;
+}
+
+.is-info{
+    background-color: #ffb43223;
+}
+
+.title{
+    font-family: 'Open Sans', sans-serif;
+    margin-left: auto;
+    margin-right: auto;
+    width: 60%;
+    font-size: 4em;
+    padding-bottom: 8px;
+    color: #252525 !important;
+}
+
+.subtitle{
+    font-family: 'Open Sans', sans-serif;
+    margin-left: auto;
+    margin-right: auto;
+    width: 60%;
+    color: #252525 !important;
+}
